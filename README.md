@@ -24,7 +24,8 @@ Model Training: The model is trained for 10 epochs on the training data, with va
 
 Visualization: The training and validation accuracy over epochs are plotted to visualize the model's performance.
 
-      ![image](https://github.com/anilkus/Image-segmentation-using-Deep-Learning/assets/16832969/fb5e9f71-92b9-4fd9-924a-c1d1f1b5347d)
+![image](https://github.com/anilkus/Image-segmentation-using-Deep-Learning/assets/16832969/486bd995-4911-4ecb-a1b8-59b47a972725)
+
 
 
 
